@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - Balance@termometr.c7n1ldlwweuw.us-west-2.rds.amazonaws.com" uuid="aa5a2d63-da5d-4fe8-9192-b81e57b97c36">
+      <secret-storage>master_key</secret-storage>
+      <user-name>AlexWolf</user-name>
+      <schema-pattern>Balance.*</schema-pattern>
+      <default-schemas>Balance.*</default-schemas>
+    </data-source>
+  </component>
+</project>
