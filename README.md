@@ -1,4 +1,4 @@
 # Balance
-DEMO: http://52.32.125.105/balance/ 
-login: demo
-pass: demo
+DEMO: http://52.32.125.105/balance/<br />
+login: demo<br />
+pass: demo<br />
